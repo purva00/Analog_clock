@@ -3,8 +3,6 @@ position: relative;
 border: 2px solid black;
 height:40vw;
 width:40vw;
-/* height:440px;
-width:440px; */
 background: url(clock.png) ;
 background-size: 100%;
 }
